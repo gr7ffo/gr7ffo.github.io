@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Lorem ipsum.
+This is my Hobbykeller Github Page.
