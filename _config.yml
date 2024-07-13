@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sidebar"
-  pronouns         : # example: "she/her"  
-  bio              : ""
-  location         : "Germany/Earth"
+  pronouns         : "he/him"  
+  bio              : # 
+  location         : "Earth/Germany"
   employer         : "FAU Erlangen-Nuernberg"
   uri              : # URL
-  email            : "" 
+  email            : # Mail
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
