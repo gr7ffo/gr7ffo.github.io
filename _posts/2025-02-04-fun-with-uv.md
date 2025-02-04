@@ -8,9 +8,7 @@ tags:
   - til
 ---
 
-# Fun with uv
-
-## Useful snippets for using uv
+# Useful snippets for using uv
 
 In 'normal' Python scripts you could use for example
 
@@ -30,7 +28,7 @@ print(pd.__version__)
 
 This specifies a certain Python version, in this case 3.11+ and automatically imports dependencies. One could run this script using `uv run script.py` and `uv` does all the magic of setting things up.
 
-## Useful snippts for using uvx
+# Useful snippts for using uvx
 
 For using the `uvx` one could for example use the command
 
